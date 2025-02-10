@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @aditya-raj-435
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me email:adityaraj776435@gmail.com
 
-<!---
-aditya-raj-435/aditya-raj-435 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
